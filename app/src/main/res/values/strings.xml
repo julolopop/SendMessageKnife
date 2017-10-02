@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendMessageKnife</string>
+    <string name="txvUser">Usuario:</string>
+    <string name="txvMessage">Mensage:</string>
+    <string name="btnOk">Enviar</string>
+    <string name="ediUserMessage">El Usuario <b>%1$s</b> te a mandado el siguiente mensage: </string>
+</resources>
